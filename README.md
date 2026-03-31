@@ -10,9 +10,11 @@ I come from a background in fundamental mathematics, with a specialization in ma
 
 ## Programming Projects 💻
 
-- **[Relativistic Raytracer](https://github.com/JeremyGerin/RayTracerRelativiste)** : A raytracer associated with an RK4 ODE solver to visualize relativistic effects in the Schwarzschild solution of Einstein's field equations.
+- **[HeatVoxelEngine](https://github.com/JeremyGerin/HeatVoxelEngine)** : A Vulkan-based voxel engine built for learning Vulkan, using thermodynamic simulations such as heat diffusion in solids, fluid convection, and potentially thermal radiation as a playground for GPU programming and shader development.
 
 - **[PhysicEngine](https://github.com/JeremyGerin/PhysicEngine)** : An experimental C++ library intended to bootstrap a complete OpenGL & ImGui environment, making it easier to build graphics applications and focus on buffers, textures, and shader development.
+
+- **[Relativistic Raytracer](https://github.com/JeremyGerin/RayTracerRelativiste)** : A raytracer associated with an RK4 ODE solver to visualize relativistic effects in the Schwarzschild solution of Einstein's field equations.
 
 ## LaTeX Projects 📄
 
