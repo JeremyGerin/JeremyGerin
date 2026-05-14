@@ -18,6 +18,8 @@ I come from a background in fundamental mathematics, with a specialization in ma
 
 ## LaTeX Projects 📄
 
+- **[Geometric introduction to classical field theory](https://github.com/JeremyGerin/ClassicalFieldTheory)** : A document developing a geometric formulation of classical field theory, from general relativity to the classical standard model including the Higgs mechanism, in the unified framework of principal bundles.
+
 - **[Physics-Mathematics Notes](https://github.com/JeremyGerin/Physique-Mathematiques)** : An ongoing long-term writing project intended to reorganize my entire mathematical training into a structured and coherent document.
 
 - **[M1 Thesis - Introduction to Gauge Theories](https://github.com/JeremyGerin/M1-GaugeTheories)** : My M1 thesis focused on gauge theory, approached from the geometrical perspective of connections on principal bundles.
