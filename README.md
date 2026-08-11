@@ -1,6 +1,6 @@
-# Hi, I'm Pafnouti ! 👋
+# Hi, I'm Jérémy ! 👋
 
-I come from a background in fundamental mathematics, with a specialization in mathematical physics, and a strong interest in computer graphics. Most of these projects serve as exploratory frameworks for learning new concepts, so their progression depends on my current interests and curiosity. As a result, they may remain unfinished, but still illustrate how I work and think.
+I come from a background in fundamental mathematics, with a specialization in mathematical physics, and a strong interest in computer graphics and quantum information. I am currently pursuing a PhD in mathematical physics under the supervision of Frédéric Holweck, working on algebraic invariants and their applications to quantum entanglement and quantum computing. Most of these projects serve as exploratory frameworks for learning new concepts, so their progression depends on my current interests and curiosity. As a result, they may remain unfinished, but still illustrate how I work and think.
 
 ## Interests 💡
 
@@ -10,7 +10,7 @@ I come from a background in fundamental mathematics, with a specialization in ma
 
 ## Programming Projects 💻
 
-- **[HeatVoxelEngine](https://github.com/JeremyGerin/HeatVoxelEngine)** : A Vulkan-based voxel engine built for learning Vulkan, using thermodynamic simulations such as heat diffusion in solids, fluid convection, and potentially thermal radiation as a playground for GPU programming and shader development.
+- **[VulkanSandbox](https://github.com/JeremyGerin/VulkanSandbox)** : An experimental C++ project for learning Vulkan, serving as a sandbox for testing ideas and developing reusable rendering code.
 
 - **[PhysicEngine](https://github.com/JeremyGerin/PhysicEngine)** : An experimental C++ library intended to bootstrap a complete OpenGL & ImGui environment, making it easier to build graphics applications and focus on buffers, textures, and shader development.
 
@@ -29,6 +29,10 @@ I come from a background in fundamental mathematics, with a specialization in ma
 - **[L3 Project - Stacks Project Contributions](https://stacks.math.columbia.edu/)** : Writing rigorous proofs of undergraduate-level (L3) lemmas, meeting the standards required for inclusion in the Stacks Project.
 
 ## Education 🎓
+
+- 2026-present: **PhD in Mathematical Physics** - Université de Technologie de Belfort-Montbéliard - Belfort, France  
+*Thesis: Quantum Entanglement: Algebraic Invariants and Quantum Computers  
+Supervisor: Frédéric Holweck*
 
 - 2024-2025: **Master 2** international "Math4Phys" in Mathematical Physics - Université Bourgogne Europe - Dijon, France
 
